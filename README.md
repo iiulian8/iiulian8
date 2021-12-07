@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iiulian8
 - 👀 I’m interested in ... fullstack development.
 - 🌱 I’m currently learning ... a myriad of things at Roehampton University.
+- 💻 I'm working at ... Nation Wilcox
 - 💞️ I’m looking to collaborate on ... any sparkly project!
 - 📫 How to reach me ... by my email address: deceneu@protonmail.com
 
